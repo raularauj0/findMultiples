@@ -9,3 +9,9 @@ For example, if the parameters passed are (2, 6), the function should return [2,
 -return a list of their multiples [array]
 -only ever positive integers
 -not consisting of 0
+
+## pomodoro 1
+-create the base function
+-Create the test to verify if function exists (return number one if function exists)
+-valide the function to pass in test
+-refactoring some names and text
