@@ -4,3 +4,8 @@ In this simple exercise, you will build a program that takes a value, integer , 
 For example, if the parameters passed are (2, 6), the function should return [2, 4, 6] as 2, 4, and 6 are the multiples of 2 up to 6.
 
 ## Domain
+-the value must be integer
+-the limit must higher than the base
+-return a list of their multiples [array]
+-only ever positive integers
+-not consisting of 0
