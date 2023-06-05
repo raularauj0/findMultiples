@@ -33,8 +33,37 @@ should be included as well
 - test if value plus limit return 4 (should return 4 when value plus limit equals a two)
 
 ## pomodoro 3 (restart again)
-- refactoring the domain
+- refactoring the domain ✅
 
-- should return value
+- should return value ✅
 
-- should return limit
+- create prod code for return value ✅
+
+- should return limit ✅
+
+- create prod code for return limit ✅
+
+## pomodoro 4
+
+- should return value plus limit ✅
+
+-create the prod code for return value plus limit 🚧
+
+## pomodoro 5 
+
+- should return value plus limit ✅
+
+- create the prod code for return value plus limit ✅
+
+- should return value times limit 🚧
+- create the prod code for return value plus limit 🚧
+
+✅ done 🚧 WIP ❌ MOVED
+
+## pomodoro 6 
+
+- refactoring prod code to pass in 'should return value times limit' and 'should return value plus limit' ✅
+
+- should return value times limit ✅
+- create the prod code for return value plus limit ✅
+
