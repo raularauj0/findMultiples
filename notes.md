@@ -9,7 +9,7 @@ For example, if the parameters passed are (2, 6), the function should return [2,
 -the limit must higher than the base
 
 -return a list of their multiples [array], [value,limit]
-- If limit is a multiple of integer, it 
+-If limit is a multiple of integer, it 
 should be included as well
 
 -only ever positive integers
@@ -17,20 +17,20 @@ should be included as well
 -not consisting of 0
 
 ## pomodoro 1
--create the base function
+-create the base function ✅
 
--Create the test to verify if function exists (return number one if function exists)
+-Create the test to verify if function exists (return number one if function exists) ✅
 
--valide the function to pass in test
+-valide the function to pass in test ✅
 
--refactoring some names and text
+-refactoring some names and text ✅
 
 ## pomodoro 2
--create the  test to verify if value is a number one( return one if value exists)
+-create the  test to verify if value is a number one( return one if value exists) 🚧
 
-- create the test to verify if limit is a number one( return one if limit exists)
+- create the test to verify if limit is a number one( return one if limit exists)🚧
 
-- test if value plus limit return 4 (should return 4 when value plus limit equals a two)
+- test if value plus limit return 4 (should return 4 when value plus limit equals a two) 🚧
 
 ## pomodoro 3 (restart again)
 - refactoring the domain ✅
